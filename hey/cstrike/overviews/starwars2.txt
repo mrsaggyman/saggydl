@@ -1,0 +1,14 @@
+// overview description file for starwars2.bsp
+
+global 
+{
+	ZOOM	1.54
+	ORIGIN	64	-32	-1793
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/starwars2.bmp"
+	HEIGHT	-1793
+}
