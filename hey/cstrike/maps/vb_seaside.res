@@ -1,0 +1,9 @@
+gfx/env/beach2bk.tga
+gfx/env/beach2dn.tga
+gfx/env/beach2ft.tga
+gfx/env/beach2lf.tga
+gfx/env/beach2rt.tga
+gfx/env/beach2up.tga
+models/boom/palmtree1.mdl
+sound/boom/oceanwaves.wav
+sound/boom/seagulls.wav
